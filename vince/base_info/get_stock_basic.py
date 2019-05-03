@@ -24,5 +24,5 @@ from vince import *
 # for stock_i in my_stock:
 #     print(pro.suspend(ts_code=stock_i, suspend_date='', resume_date='', fields=''))
 
-df8 = pro.fina_mainbz(ts_code='000627.SZ', type='P')
-print(df8)
+#df8 = pro.fina_mainbz(ts_code='000627.SZ', type='P')
+#print(df8)
